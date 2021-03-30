@@ -1,7 +1,7 @@
 Introduction
 
 The objective of this study of residue-residue interactions is to introduce a generic computational model to exploit the synergy among various protein information. The computational model is based on meta learning. It has the flexibility to integrate various component prediction tools into a unique prediction system. 
-For the purpose of demonstration, we provide the executable code of RRI-Meta and the data used in this study.
+For the purpose of demonstration, we provide the executable code of RRI-Meta and the data used in this study. The executable code was tested on a Windows 10 desktop computer with 8 cores and 64GB memory.
 
 
 Availability
